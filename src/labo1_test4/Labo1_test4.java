@@ -14,7 +14,7 @@ public class Labo1_test4 {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-           System.out.println("Bonjour " + args[0] + " " + args[1] + " !");
+           System.out.println("Bonjour bonjour " + args[0] + " " + args[1] + " !");
     }
     
 }
